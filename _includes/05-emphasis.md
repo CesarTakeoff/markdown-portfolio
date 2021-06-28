@@ -1,1 +1,28 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Cesar Pacheco
+## Skils
+
+### Skills:
+*Database:*
+**Oracle** Expert
+**MySQL** Expert
+**Postgress** Advance
+*NonSql DB:*
+**Arango**
+**Mongo**
+*Other DB:*
+**SQLite**
+
+*Programing:*
+**Oracle PL/Sql** Expert
+**Java** Expert
+**Clojure** Beginner
+**Python** Beginner
+
+*Web Programing:*
+**HTML** and **CSS**
+**Javascript** and **TypeScript** 
+**JQuery**
+
+*Frameworks:*
+**Angular**
+**Spring**
